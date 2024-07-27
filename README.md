@@ -1,16 +1,31 @@
 
-  
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f7f7f7;
+        color: #333;
+        padding: 20px;
+    }
+    h1, h2, h3, h4, h5, h6 {
+        color: #333;
+    }
+    p, li {
+        color: #333;
+    }
+    a {
+        color: #1a0dab;
+    }
+</style>
+
+<body>
+
 # Document Summarizer
 
 
 
-https://github.com/user-attachments/assets/4f7a3add-c856-48e2-b493-957f57b736b7
 
 
-
-
-
-
+![App Screenshot](https://postimg.cc/svHwcC3K)
 
 <details>
 <summary>Table of Contents</summary>
@@ -211,3 +226,4 @@ We are grateful to the following individuals and organizations for their invalua
 - **Our Mentor, Soham Pandit**: For his unwavering support, guidance, and mentorship, which were crucial to the project's success.
 
 
+</body>
