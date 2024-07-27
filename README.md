@@ -150,20 +150,7 @@ First activate your environment and locate your dowloaded repo and then type:
 
 
 
-## :computer: Usage Instructions and Demo
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-To use the document summarizer, follow these steps:
-
-### 1. Upload a document (PDF or DOCX).
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-### 2 Select the type of summary or analysis you want (e.g., summarization, QnA, mind map).
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-### 3. Click "Generate" to receive the output.
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 ## 🔗 Authors
 
  #### Arihant Jain
