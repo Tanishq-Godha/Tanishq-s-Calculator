@@ -32,7 +32,7 @@ This project was created for IITISOC 24'. The goal of this project was to develo
 ## :triangular_ruler: Project Pipeline
 
 
-### Pre-Processing
+### :gear: Pre-Processing
 
 #### 1. Text Extraction
 
@@ -48,7 +48,7 @@ This project was created for IITISOC 24'. The goal of this project was to develo
 
 - The extracted text is divided into smaller chunks for efficient processing by summarization models. The chunking function ensures each chunk stays within a maximum length and maintains context of previous paragraphs through overlapping sections.
 
-### Summarization
+### :memo: Summarization
 The project allows for summary generation using either the BART model or the Llama 3.1 model.
 
 #### 1. BART Model
@@ -57,7 +57,7 @@ The project allows for summary generation using either the BART model or the Lla
 #### 2. Llama Model
 - The [Llama 3.1](https://llama.meta.com) model is used for high-quality summarization, tailored to our specific tasks for improved performance.
 
-### Question-Answering
+### :question: Question-Answering
 The question answering (QnA) part of the pipeline enables users to ask specific questions about a document and receive detailed and accurate responses.
 
 #### 1. Ollama Mistral Model
@@ -191,7 +191,7 @@ To use the document summarizer, follow these steps:
 
 
 
-## Acknowledgements
+## :heart: Acknowledgements
 
 We are grateful to the following individuals and organizations for their invaluable contributions and support throughout this project:
 
