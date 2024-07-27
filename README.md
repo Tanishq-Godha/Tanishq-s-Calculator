@@ -5,15 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
-            background-color: #f0f0f0; 
-            color: #333333; 
-            font-family: Arial, sans-serif; 
+            background-color: #f0f0f0; /* Light background color */
+            color: #333333; /* Dark text color */
+            font-family: Arial, sans-serif; /* Font style */
         }
         h1, h2, h3, h4, h5, h6 {
-            color: #222222; 
+            color: #222222; /* Header color */
         }
         a {
-            color: #1a73e8; 
+            color: #1a73e8; /* Link color */
         }
     </style>
 </head>
@@ -228,5 +228,5 @@ We are grateful to the following individuals and organizations for their invalua
 - **Organising Team of IITISOC 24**: For providing the opportunity, and platform to develop this project. 
 - **Cynaptics Club, IIT Indore**: For designing high-quality problem statements that challenged and inspired us.
 - **Our Mentor, Soham Pandit**: For his unwavering support, guidance, and mentorship, which were crucial to the project's success.
-  /body>
+  </body>
 
