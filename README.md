@@ -94,13 +94,13 @@ The question answering (QnA) part of the pipeline enables users to ask specific 
 
 ## :running: Set-Up Model Locally
 
-### System Requirements
+### :desktop_computer: System Requirements
 
 - Operating System: Windows , macOS, or Linux
 - RAM: At least 16 GB CPU + 6 GB GPU or 32 GB CPU
 - Disk Space: At least 18 GB free space
 
-### Conda Enviromenet Set-Up
+### :hammer_and_wrench Conda Enviromenet Set-Up
 - First create new anaconda enviornment. Open Anaconda terminal and write:
 ```bash
   conda create -n document_summarizer python=3.10 
@@ -112,12 +112,12 @@ The question answering (QnA) part of the pipeline enables users to ask specific 
 ```
 - To enable CUDA for GPU on this system, [click here](https://pytorch.org/get-started/locally/)
 
-### Git Clone Repo
+### :inbox_tray: Git Clone Repo
 To Download the repo on your system, type
 ```bash
    git clone (repo here)
 ```
-### Downloading Ollama Models
+### :package: Downloading Ollama Models
 - Download ollama from [here](https://ollama.com/)
 - To Run Ollama:
 ```bash
@@ -133,13 +133,13 @@ To Download the repo on your system, type
 ```bash
    ollama list
 ```
-### Imports 
+### :books: Imports 
 First activate your environment and locate your dowloaded repo and then type:
 ```bash
    pip install -r requirements.txt
 ```
 
-### Run model on Stream-Lit
+### :runner: Run model on Stream-Lit
 ```bash
    python run streamlit.py
 ```
