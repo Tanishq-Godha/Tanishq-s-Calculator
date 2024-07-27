@@ -74,7 +74,7 @@ The question answering (QnA) part of the pipeline enables users to ask specific 
 
 
 
-### ADD-ONS
+### :rocket: ADD-ONS
 
 #### 1. Mind-Map
 - Visualizes hierarchical information from text data as a mind map using Matplotlib.
@@ -92,7 +92,7 @@ The question answering (QnA) part of the pipeline enables users to ask specific 
 
 
 
-## Set-Up Model Locally
+## :running: Set-Up Model Locally
 
 ### System Requirements
 
@@ -147,15 +147,7 @@ First activate your environment and locate your dowloaded repo and then type:
 
 
 
-
-
-
-
-
-
-
-
-## Usage Instructions and Demo
+## :computer: Usage Instructions and Demo
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 To use the document summarizer, follow these steps:
