@@ -5,22 +5,21 @@
 
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![App Screenshot](https://postimg.cc/svHwcC3K)
 
 <details>
 <summary>Table of Contents</summary>
 
-- [About the Project](#document-summarizer)
+- [Document Summarizer](#document-summarizer)
+- [About The Project](#about-the-project)
 - [Project Pipeline](#project-pipeline)
   - [Pre-Processing](#pre-processing)
   - [Summarization](#summarization)
   - [Question-Answering](#question-answering)
-  - [ADD-ONS] (#ADD-ONS)
+- [ADD-ONS](#add-ons)
 - [Usage Instructions and Demo](#usage-instructions-and-demo)
 - [Authors](#authors)
-- []
-
+- [Acknowledgements](#acknowledgements)
 
 </details>
 
