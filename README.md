@@ -100,7 +100,7 @@ The question answering (QnA) part of the pipeline enables users to ask specific 
 - RAM: At least 16 GB CPU + 6 GB GPU or 32 GB CPU
 - Disk Space: At least 18 GB free space
 
-### :hammer_and_wrench Conda Enviromenet Set-Up
+### :hammer_and_wrench: Conda Enviromenet Set-Up
 - First create new anaconda enviornment. Open Anaconda terminal and write:
 ```bash
   conda create -n document_summarizer python=3.10 
