@@ -4,8 +4,7 @@
 
 
 
-
-![IMG-20240727-WA0017 1 (1)(1)](https://github.com/user-attachments/assets/b95de24d-3a5f-4ee4-a887-2beb2388d7b4)
+![Document_Summarizer_Front_Page](https://github.com/user-attachments/assets/c7d0026f-97df-47b5-acb4-c35e6f1e55f3)
 
 
 
