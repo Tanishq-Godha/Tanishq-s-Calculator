@@ -1,7 +1,8 @@
 
 # Document Summarizer
 
-![IMG-20240727-WA0017 1 (1)(1)](https://github.com/user-attachments/assets/b81271a0-5afa-4853-8475-ae42f409802f)
+
+![Document_Summarizer_Front_Page](https://github.com/user-attachments/assets/a49c9178-3abd-4203-85f0-d32551a18d66)
 
 
 
