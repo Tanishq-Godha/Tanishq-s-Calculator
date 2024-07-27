@@ -25,7 +25,7 @@
 
 </details>
 
-## About The Project
+## :star2: About The Project
 
 This project was created for IITISOC 24'. The goal of this project was to develop a robust pipeline that generates concise textual summaries of various types of documents. The documents can be research papers, novels, invoices, etc., and will contain text and images. Additionally, a Question and Answer (QnA) is integrated to  allow users to ask questions about the document and receive precise answers.
 
