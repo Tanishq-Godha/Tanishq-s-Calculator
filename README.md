@@ -4,7 +4,6 @@
 # Document Summarizer
 
 
-![IMG-20240727-WA0017 1 (1)(1)](https://github.com/user-attachments/assets/ae3803a3-c76c-4d4a-a445-ef44c744aa71)
 
 
 
