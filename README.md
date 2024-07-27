@@ -144,7 +144,7 @@ First activate your environment and locate your dowloaded repo and then type:
 
 ### :runner: Run model on Stream-Lit
 ```bash
-   python run streamlit.py
+   streamlit run streamlit.py
 ```
 
 
